@@ -1,3 +1,4 @@
+# Waterfall
 - The Waterfall Development Methodology is a linear design approach that goes through a defined set of stages (like a waterfall). 
 
 - This Methodology maintains that you should only move onto the next phase once the previous phase is reviewed and verified (no going back)

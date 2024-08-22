@@ -1,3 +1,4 @@
+# Agile
 - The Agile Development Methodology allows solutions to problems to evolve over time and relies on all the teams working together with their client. It allows for adaptive planning early delivery and continual improvement.
 
 - Agile refers to a group of software methodologies based on iterative development where solutions evolve and promotes disciplined project management and encourages frequent testing. It relies on the team to use best practices to deliver high quality software so it doesn't go wrong. 

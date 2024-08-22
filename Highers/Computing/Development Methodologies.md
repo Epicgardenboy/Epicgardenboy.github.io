@@ -1,1 +1,0 @@
-[Waterfall](Development Methodologies/Waterfall)
