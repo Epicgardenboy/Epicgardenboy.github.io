@@ -5,4 +5,3 @@ GithubPages
 <br>
 [Highers](Highers/HighersNav)
 
-To be a businessman you need to lie a lot
